@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("Hi, Git!");
         System.out.println("Hi, Git -version 2.0 add");
         System.out.println("hot-fix add");
+        System.out.println("hot-fix add 2.0");
     }
 
 }
