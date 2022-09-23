@@ -14,6 +14,7 @@ public class GitTest {
         System.out.println("hot-fix add");
         System.out.println("master add 3.0");
         System.out.println("hot-fix add 2.0");
+        System.out.println("for pull test");
     }
 
 }
